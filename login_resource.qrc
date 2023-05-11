@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>resource_/icons/x.svg</file>
+        <file>resource_/icons/x-circle.svg</file>
+        <file>resource_/icons/x-octagon.svg</file>
+        <file>resource_/icons/x-square.svg</file>
+        <file>resource_/icons/user.svg</file>
+    </qresource>
+    <qresource prefix="/new/image">
+        <file>resource_/img/user</file>
+    </qresource>
+</RCC>
